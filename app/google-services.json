@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787917000614",
+    "project_id": "mytrigger-9ccd8",
+    "storage_bucket": "mytrigger-9ccd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787917000614:android:bbc11cb0e56c0e029a0967",
+        "android_client_info": {
+          "package_name": "com.example.temporizador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787917000614-sn9g210jupp2nuv5mdbtho5kocivqokm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavv3C2JiDWSt4v-3PcLxmuRsCYrPh_9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787917000614-sn9g210jupp2nuv5mdbtho5kocivqokm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
